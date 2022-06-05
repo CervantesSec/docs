@@ -1,6 +1,6 @@
 ---
 title: Install with Docker
-parent: Legal
+parent: Instllation
 ---
 
 ## {{page.title}}
