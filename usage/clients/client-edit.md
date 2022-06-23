@@ -1,5 +1,5 @@
 ---
-title: Create Client
+title: Edit Client
 parent: Clients
 grand_parent: Usage
 ---
